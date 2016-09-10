@@ -284,6 +284,11 @@
 				{{name}}
 			</div>
 			{{/if}}
+            {{#if authors}}
+            <div class="authors">
+                {{authors}}
+            </div>
+            {{/if}}
 			{{#if publisher}}
 			<div class="publisher">
 				{{publisher}}
