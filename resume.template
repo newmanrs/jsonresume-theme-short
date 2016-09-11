@@ -280,9 +280,9 @@
 		{{#each resume.publications}}
 		<div class="item">
 			{{#if name}}
-			<div class="name">
+			<h3 class="name">
 				{{name}}
-			</div>
+			</h3>
 			{{/if}}
             {{#if authors}}
             <div class="authors">
