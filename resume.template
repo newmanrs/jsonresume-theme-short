@@ -234,7 +234,7 @@
 
 				{{#if gpa}}
 				<span class="gpa">
-					GPA: {{gpa}}
+					GPA:&nbsp;{{gpa}}
 				</span>
 				{{/if}}
 			</div>
